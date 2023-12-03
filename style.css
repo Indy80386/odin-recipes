@@ -13,6 +13,7 @@ body {
 /* Start of menublock settings */
 .menublock {
     display: flex;
+    flex-wrap: wrap;
     padding: 5px;
 }  
 
